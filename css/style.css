@@ -1,0 +1,123 @@
+.first {
+    width: 230px;
+    height: 48px ;
+    float: right;
+    margin: 10px; 
+    
+}
+.marginright {
+    margin-right: 14px;
+}
+
+.marginleft {
+    margin-left: 14px;
+}
+
+.margintop {
+    margin-top: 5px;
+}
+
+.right {
+    float: right;
+}
+
+.cizgi {
+    text-decoration: none;
+}
+
+.clear {
+    clear: both;
+}
+
+.bosluk {
+    width: 944px;
+    height: 290px;
+}
+
+.logo {
+    text-align: center;
+    margin-top: 180px;
+}
+
+.arama{
+    width: 403px;
+    height: 34px;
+    border: none;
+}
+
+.image {
+    margin-top: auto;
+    text-decoration: none;
+    
+}
+
+.aramacubugu {
+    margin-right: auto;
+    text-align: center;
+    border-style: groove;
+    width: 550px;
+    border-radius: 15px;
+    margin-top: 15px;
+}
+
+.ortala {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.googleara {
+    width: 120px;
+    height: 36px;
+}
+
+.sansli {
+    width: 216px;
+    height: 36px;
+}
+
+.button {
+    width: fit-content;
+    /* text-align: center; */
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+}
+
+.turkiye {
+    width: auto;
+    background-color: azure;
+    height: 48px;
+}
+
+.turkiyebir {
+    width: auto;
+    background-color: rgb(238, 232, 232);
+    height: 48px;
+    position: relative;
+    top: 410px;    
+}
+
+p {
+    position: relative;
+    top: 15px;
+}
+ 
+.enalt {
+    float: right;
+}
+
+footer div {
+    position: relative;
+    top: 15px;
+}
+
+.color {
+    color: gray;
+}
+
+
+
+
+
+
+
